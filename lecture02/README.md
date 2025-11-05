@@ -1,16 +1,13 @@
 # lecture02 
-# supervised learing 
-### process of supervised learning algoright 
+# Supervised Learning 
+## Process of Supervised Learning Algorithm 
    - training data set 
    - give it to the learning algorithm 
    - hypothesis (input -> hypothesis -> output) 
-## linear regression 
-### predicting the prices of houses 
-### data 
 
-
-
-
-
-## gradient descent  batch/ stochastic  
-## normal equation
+## Example for supervised learing problem  
+### problem:- predicting the prices of houses 
+## Algorithms
+    - linear regression 
+    - gradient descent  batch/ stochastic
+    - normal equation
